@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Create components that return JSX
-- Use props to make components dynamic
+- Use props to make components dynamic 
 - Transform lists of data into lists of components
 
 ## Overview
